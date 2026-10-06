@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-palette-light: #F4FFFC;
+  --color-palette-mint: #91EAAF;
+  --color-palette-lime: #C3E956;
+  --color-palette-olive: #4D7111;
+  --color-palette-forest: #1F4B2C;
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
